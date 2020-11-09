@@ -1,6 +1,9 @@
 ### Hi. I'm Carlos Rojas 👋
 
-### :computer: Technologies
+### ⚡ Technologies
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 <!--
 **carlosrjs96/carlosrjs96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
