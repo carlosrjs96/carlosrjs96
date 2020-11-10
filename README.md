@@ -1,5 +1,5 @@
 # Hi. I'm Carlos Rojas 👋
-:book: I’m currently learning Computer Engineering.
+:book: I’m currently learning Computing Engineering.
 
 ## 🚀 Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
