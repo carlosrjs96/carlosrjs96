@@ -4,7 +4,7 @@
 ## 🚀 Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=java)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Angular](https://img.shields.io/badge/-Angular-dd1b16?style=flat-square&logo=angular)
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c++)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
