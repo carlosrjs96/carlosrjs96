@@ -12,7 +12,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![SQLServer](https://img.shields.io/badge/SQLServer-lightgrey?style=flat-square&logo=microsoft-sql-server)
 ![Git](https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-3d2d00?style=flat-square&logo=github)
 
 
 <!--
