@@ -7,7 +7,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-dd1b16?style=flat-square&logo=angular)
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c++)
-![C#](https://img.shields.io/badge/-C#-9400D3?style=flat-square&logo=C#)
+![C#](https://img.shields.io/badge/-CSharp-9400D3?style=flat-square&logo=C#)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap)
