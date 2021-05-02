@@ -17,6 +17,7 @@
 ![SQLServer](https://img.shields.io/badge/SQLServer-lightgrey?style=flat-square&logo=microsoft-sql-server)
 ![Git](https://img.shields.io/badge/-Git-3d2d00?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-F1502F?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-8C929D?style=flat-square&logo=gitlab)
 
 
 <!--
