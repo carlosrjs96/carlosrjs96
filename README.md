@@ -2,16 +2,9 @@
 :book: I'm currently studying Computing Engineering at Instituto Tecnológico de Costa Rica
 
 ## 🚀 Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=java)
-![Angular](https://img.shields.io/badge/-Angular-dd1b16?style=flat-square&logo=angular)
 ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=c++)
-![C#](https://img.shields.io/badge/-CSharp-9400D3?style=flat-square&logo=C#)
-![.NET](https://img.shields.io/badge/-.NET-8B008B?style=flat-square&logo=.NET)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![SQLServer](https://img.shields.io/badge/SQLServer-lightgrey?style=flat-square&logo=microsoft-sql-server)
